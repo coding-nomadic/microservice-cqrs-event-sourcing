@@ -1,7 +1,7 @@
 ## Microservice architecture leveraging CQRS and Event Sourcing for robust event-driven communication and data consistency - 
 
 
-Enhance bank account system with CQRS, Event Sourcing, and Kafka integration for optimized architecture and event-driven communication : 
+Discover how to construct distributed event-driven microservices, employing CQRS, Event Sourcing, and Kafka, along with PostGreSQL and MongoDB databases. 
 
 - Implement CQRS to separate commands for modifying state and queries for reading data.
 - Use Event Sourcing to persist state changes as events in an event store.
