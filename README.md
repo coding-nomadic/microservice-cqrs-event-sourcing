@@ -1,4 +1,4 @@
-## Microservice architecture leveraging CQRS and Event Sourcing for robust event-driven communication and data consistency - 
+## Microservice design pattern, CQRS, Event Sourcing, Kakfa and SQL/NoSQL - 
 
 
 Discover how to construct distributed event-driven microservices, employing CQRS, Event Sourcing, and Kafka, along with PostGreSQL and MongoDB databases. 
