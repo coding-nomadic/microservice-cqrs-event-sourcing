@@ -19,20 +19,6 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - SQL database with PostGreSQL
 
 
-## Service	EndPoint	Method	Description -
-
-- Account Command	- /api/v1/accounts	- POST	- Open an account
-- Account Command	- /api/v1/accounts/{id}/deposit	- PUT	- Deposit funds
-- Account Command	/api/v1/accounts/{id}/withdraw	PUT	Withdraw funds
-- Account Command	/api/v1/accounts/{id}	DELETE	Close an account
-- Account Query	/api/v1/accounts	GET	List of accounts
-- Account Query	/api/v1/accounts/{id}	GET	LIst of accounts
-
-| Method     | Endpoint |
-| POST        |               |
-| PUT   |               |
-| PUT       |              |
-
 ## Swagger API endpoints - 
 
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/3c9f48ba-8a9a-465e-a65c-83460d05f668)
