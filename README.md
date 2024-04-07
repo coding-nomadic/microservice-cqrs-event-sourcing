@@ -33,7 +33,8 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/3c9f48ba-8a9a-465e-a65c-83460d05f668)
 
 
-![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/1d75b441-ea4a-4f57-8e43-a2a6cb22f3c4)
+![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/e0771b2b-c5a6-47c5-89fe-417b59a0d691)
+
 
 
 ## Resource -  
