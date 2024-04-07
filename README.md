@@ -18,7 +18,6 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - NoSQL database with MongoDB
 - SQL database with PostGreSQL
 
-
 ## Swagger API endpoints - 
 
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/3c9f48ba-8a9a-465e-a65c-83460d05f668)
@@ -35,6 +34,12 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 
 - bin/kafka-server-start.sh config/server.properties
 
+## Below kafka topics with each 3 partitions -
+
+- OPEN-BANK-ACCOUNT
+- DEPOSIT-FUND-ACCOUNT
+- CLOSE-BANK-ACCOUNT
+- WITHDRAW-FUND-ACCOUNT
 
 ## Resource -  
 
