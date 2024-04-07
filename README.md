@@ -9,6 +9,10 @@ Explore constructing distributed microservices with CQRS, Event Sourcing, Kafka,
 - Command handlers validate commands and generate domain events, which are published to Kafka.
 - Event handlers consume events from Kafka, update the system's read and write models accordingly.
 
+## Architecture - 
+
+![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/1af6a3dc-dc94-4703-9603-2f981df25cdc)
+
 ## Concepts applied -  
 
 - Event-Driven Microservices
