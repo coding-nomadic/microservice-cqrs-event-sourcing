@@ -10,13 +10,16 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - Event handlers consume events from Kafka, update the system's read and write models accordingly.
 
 ## Concepts applied -  
-
 - Event-Driven Microservices
 - CQRS Design Pattern
 - Event Based Messages
 - Kafka
 - NoSQL database with MongoDB
 - SQL database with PostGreSQL
+
+
+![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/1d75b441-ea4a-4f57-8e43-a2a6cb22f3c4)
+
 
 ## Resource -  
 
