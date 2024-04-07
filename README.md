@@ -27,6 +27,14 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/e0771b2b-c5a6-47c5-89fe-417b59a0d691)
 
 
+## Command to start the zookeeper -
+
+- bin/zookeeper-server-start.sh config/zookeeper.properties
+
+## Start Kafka server -
+
+- bin/kafka-server-start.sh config/server.properties
+
 
 ## Resource -  
 
