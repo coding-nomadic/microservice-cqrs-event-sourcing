@@ -1,7 +1,7 @@
-## Microservice design pattern, CQRS, Event Sourcing, Kakfa and SQL/NoSQL - 
+## Microservice CQRS Event Sourcing - 
 
 
-Discover how to construct distributed event-driven microservices, employing CQRS, Event Sourcing, and Kafka, along with PostGreSQL and MongoDB databases. 
+Explore constructing distributed microservices with CQRS, Event Sourcing, Kafka, and SQL/NoSQL databases:
 
 - Implement CQRS to separate commands for modifying state and queries for reading data.
 - Use Event Sourcing to persist state changes as events in an event store.
