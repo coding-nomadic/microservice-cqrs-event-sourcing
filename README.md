@@ -18,7 +18,7 @@ Explore constructing distributed microservices with CQRS, Event Sourcing, Kafka,
 - Event-Driven Microservices
 - CQRS Design Pattern
 - Event Based Messages
-- Kafka
+- Apache Kafka
 - NoSQL database with MongoDB
 - SQL database with PostGreSQL
 
