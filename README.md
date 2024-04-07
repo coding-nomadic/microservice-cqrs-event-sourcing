@@ -17,6 +17,10 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - NoSQL database with MongoDB
 - SQL database with PostGreSQL
 
+## Swagger API endpoints - 
+
+![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/3c9f48ba-8a9a-465e-a65c-83460d05f668)
+
 
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/1d75b441-ea4a-4f57-8e43-a2a6cb22f3c4)
 
