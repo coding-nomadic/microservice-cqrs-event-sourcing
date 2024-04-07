@@ -21,12 +21,12 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 
 ## Service	EndPoint	Method	Description -
 
-Account Command	/api/v1/accounts	POST	Open an account
-Account Command	/api/v1/accounts/{id}/deposit	PUT	Deposit funds
-Account Command	/api/v1/accounts/{id}/withdraw	PUT	Withdraw funds
-Account Command	/api/v1/accounts/{id}	DELETE	Close an account
-Account Query	/api/v1/accounts	GET	List of accounts
-Account Query	/api/v1/accounts/{id}	GET	LIst of accounts
+- Account Command	/api/v1/accounts	POST	Open an account
+- Account Command	/api/v1/accounts/{id}/deposit	PUT	Deposit funds
+- Account Command	/api/v1/accounts/{id}/withdraw	PUT	Withdraw funds
+- Account Command	/api/v1/accounts/{id}	DELETE	Close an account
+- Account Query	/api/v1/accounts	GET	List of accounts
+- Account Query	/api/v1/accounts/{id}	GET	LIst of accounts
 
 ## Swagger API endpoints - 
 
