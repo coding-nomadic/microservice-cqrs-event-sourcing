@@ -17,3 +17,7 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - Kafka
 - NoSQL database with MongoDB
 - SQL database with PostGreSQL
+
+## Resource -  
+
+Project is based on Udemy course - https://www.udemy.com/course/java-microservices-cqrs-event-sourcing-with-kafka/
