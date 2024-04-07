@@ -28,6 +28,11 @@ Discover how to construct distributed event-driven microservices, employing CQRS
 - Account Query	/api/v1/accounts	GET	List of accounts
 - Account Query	/api/v1/accounts/{id}	GET	LIst of accounts
 
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 ## Swagger API endpoints - 
 
 ![image](https://github.com/coding-nomadic/microservice-cqrs-event-sourcing/assets/8009104/3c9f48ba-8a9a-465e-a65c-83460d05f668)
